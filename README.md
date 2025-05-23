@@ -1,7 +1,7 @@
 # 📘 DSA Basics
 
 Welcome to my personal **Data Structures and Algorithms** (DSA) repository 
-This repo is where I upload my daily DSA practice, concepts, and notes in PDF format as part of my learning journey 🚀.
+This repo is where I upload my daily DSA practice, concepts, and notes in PDF format as part of my learning journey 🚀
 
 ---
 
@@ -16,8 +16,9 @@ Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains 
 - ✅ Arrays  
 - ✅ Searching (Binary Search, Linear Search)  
 - ✅ Sorting Algorithms  
-- ✅ Strings  
-- 🔜 Linked Lists, Recursion, Trees, Graphs, and more...
+- ✅ Strings
+- ✅ Linked Lists
+- 🔜 Recursion, Trees, Graphs, and more...
 
 ---
 
