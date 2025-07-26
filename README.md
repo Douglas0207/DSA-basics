@@ -7,7 +7,7 @@ This repo is where I upload my daily DSA practice, concepts, and notes in PDF fo
 
 ## 📂 Repository Structure
 
-Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains typed solutions for that 
+Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains typed solutions for that d
 
 ---
 
