@@ -38,8 +38,8 @@ Mastering DSA is a key step towards my dream of becoming a **Full Stack Develope
 
 ## Let's Connect
 
-- 👨‍💻 GitHub: [Douglas0207](https://github.com/Douglas0207)  
-- 📧 Email: robinson4jesuschrist@gmail.com  
+- GitHub: [Douglas0207](https://github.com/Douglas0207)  
+-  Email: robinson4jesuschrist@gmail.com  
 
 ---
 
