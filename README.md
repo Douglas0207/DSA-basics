@@ -22,21 +22,21 @@ Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains 
 
 ---
 
-## 📅 Daily Progress
+## Daily Progress
 
 I'm committed to solving DSA problems **daily** and tracking my growth here.  
 All files uploaded are personally solved and reviewed to improve my logical thinking and coding skills.
 
 ---
 
-## 🙌 Why I'm Doing This
+## Why I'm Doing This
 
 I'm currently in my 3rd year of Engineering (ECE), preparing for placements.  
 Mastering DSA is a key step towards my dream of becoming a **Full Stack Developer** and cracking top tech companies.
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - 👨‍💻 GitHub: [Douglas0207](https://github.com/Douglas0207)  
 - 📧 Email: robinson4jesuschrist@gmail.com  
