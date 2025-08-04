@@ -11,7 +11,7 @@ Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains 
 
 ---
 
-## 🧠 Topics Covered So Far
+## Topics Covered So Far
 
 - ✅ Arrays  
 - ✅ Searching (Binary Search, Linear Search)  
