@@ -1,7 +1,7 @@
 # DSA Basics
 
 Welcome to my personal **Data Structures and Algorithms** (DSA) repository 
-This repo is where I upload my daily DSA practice, concepts, and notes in PDF format as part of my learning journe
+This repo is where I upload my daily DSA practice, concepts, and notes in PDF format as part of my learning journ
 
 ---
 
