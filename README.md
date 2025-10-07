@@ -10,7 +10,7 @@ This repo is where I upload my daily DSA practice, concepts, and notes in PDF fo
 Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains typed solutions for that day
 
 ---
-
+ 
 ## Topics Covered So Far
 
 - Arrays  
