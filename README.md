@@ -25,7 +25,7 @@ Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains 
 ## Daily Progress
 
 I'm committed to solving DSA problems **daily** and tracking my growth here.  
-All files uploaded are personally solved and reviewed to improve my logical thinking and coding skills.
+All files uploaded are personally solved and reviewed to improve my logical thinking and coding skills. 
 
 ---
 
