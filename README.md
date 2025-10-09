@@ -21,7 +21,7 @@ Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains 
 -  Recursion, Trees, Graphs, and more... 
 
 ---
-
+ 
 ## Daily Progress
 
 I'm committed to solving DSA problems **daily** and tracking my growth here.  
