@@ -18,7 +18,7 @@ Each file is named with the date of completion (e.g., `Day 1.pdf`) and contains 
 -  Sorting Algorithms  
 -  Strings  
 -  Linked Lists 
--  Recursion, Trees, Graphs, and more... 
+-  Recursion, Trees, Graphs, and more...  
 
 ---
  
